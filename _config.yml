@@ -1,0 +1,66 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            v & r
+tagline:          'verify and repair'
+description:      'Verify and Repair Adventures in workflow by <a href="http://craigeley.com">Craig Eley</a>'
+url:              http://verifyandrepair.com
+baseurl:          /
+
+author:
+  name:           'Craig Eley'
+  url:            http://craigeley.com
+
+paginate:         5
+
+# Custom vars
+version:          2.0
+
+github:
+  repo:           https://github.com/craigeley/verifyandrepair
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - pygments.rb
+  - jekyll-archives
+  
+disqusid: fieldnoise
+
+### Tag Archives Config
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: 'archive'
+  permalinks:
+    tag: '/tag/:name/'
+
+
+### Prose.io Config
+
+prose:
+    rooturl: '_posts'
+    metadata:
+        _posts:
+          - name: "layout"
+            field:
+              element: "hidden"
+              value: "post"
+          - name: "tags"
+            field:
+              element: "multiselect"
+              label: "Add Tags"
+              placeholder: "Add Tags"
+              alterable: true
+          - name: "title"
+            field:
+              element: "text"
+              label: "Post title"
+              placeholder: "Title"
+              alterable: true
