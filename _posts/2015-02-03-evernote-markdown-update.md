@@ -11,7 +11,7 @@ Typically, almost as soon as I published [yesterday’s post](http://craigeley.c
 
 This new script does three things. First, it now adds support for tags, which requires installing jdberry’s [tag script](https://github.com/jdberry/tag). You can install it with either MacPorts or Homebrew. (And as a reminder, the script also requires Pandoc, which can be downloaded [here](http://johnmacfarlane.net/pandoc/installing.html).) Secondly, it is now designed to run when [Hazel](http://www.noodlesoft.com/hazel.php) detects changes to your Evernote files.
 
-Here’s a screenshot of an extremely simple Hazel rule, which acts on the folder `/Users/USERNAME/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/ACCOUNT_NUMBER/content/`:
+Here’s a screenshot of an extremely simple Hazel rule, which acts on the folder /Users/USERNAME/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/ACCOUNT_NUMBER/content/:
 
 ![](http://d.pr/i/1238N+)
 
