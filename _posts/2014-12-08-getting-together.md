@@ -1,4 +1,4 @@
----  
+    ---  
 layout: post 
 title: Getting Together, or, Quick Thoughts on Database Software
 author: Craig Eley 
