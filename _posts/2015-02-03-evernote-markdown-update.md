@@ -21,4 +21,4 @@ Finally, this version makes it more obvious to select only certain notebooks to 
 
 <script src="https://gist.github.com/craigeley/9e526e9f0681de4534cc.js"></script>
 
-[^1512181014]: /Users/USERNAME/Library/Containers/<br>com.evernote.Evernote/Data/Library/<br>Application Support/com.evernote.Evernote/<br>accounts/www.evernote.com/<br>ACCOUNT_NUMBER/content/
+[^1512181014]: `/Users/USERNAME/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/ACCOUNT_NUMBER/content/`

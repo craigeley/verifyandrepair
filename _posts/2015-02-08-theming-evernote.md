@@ -15,7 +15,7 @@ In less than hour (it would have *much* less if I knew more about CSS), I was ab
 
 [![Easy, breezy contrast](http://d.pr/i/12Gg8+)](http://d.pr/i/12Gg8)
 
-If you know what you’re doing, then you can find the file in Applications -> Evernote.app -> Contents -> Resources -> mac -> en-mac-min.css. Also, since this is as a hack, be sure to save a backup of this file—it will be overwritten every time the software is updated or needs to be reinstalled.
+If you know what you’re doing, then you can find the file in `Applications/Evernote.app/Contents/Resources/mac/en-mac-min.css.` Also, since this is as a hack, be sure to save a backup of this file—it will be overwritten every time the software is updated or needs to be reinstalled.
 
 If you need more help, here’s a step-by-step walkthrough:
 

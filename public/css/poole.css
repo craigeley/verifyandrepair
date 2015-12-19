@@ -158,6 +158,8 @@ code {
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 pre {
   display: block;
