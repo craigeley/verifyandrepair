@@ -29,7 +29,7 @@ If you've read this far, you've probably already guessed that my next thought wa
 
 ### Airtable Setup
 
-First, you want to make sure that you set up your Airtable base to grab everything you want from Reporter. My reports ask 4 questions: "What are you doing?," "Where are you?", "Who are you with?", and for a "Tag." These are easy enough to create in Airtable rows; I called mine Activities, Location, People, and Activity Tag (no clue why I didn't just go with "Tag"). I set "Activities" as the "Name Field" in Airtable, which is the default first column. I then set Location, People, and Activity Tag as linked records.
+First, you want to make sure that you set up your Airtable base to grab everything you want from Reporter. My reports ask 4 questions: "What are you doing?," "Where are you?", "Who are you with?", and asks for a "Tag." These are easy enough to create in Airtable rows; I called mine Activities, Location, People, and Activity Tag (no clue why I didn't just go with "Tag"). I set "Activities" as the "Name Field" in Airtable, which is the default first column. I then set Location, People, and Activity Tag as linked records.
 
 Reporter also pulls down a ton of data in the background, without any user input. I decided to grab timestamps, latitude, and longitude for sorting and later analysis.
 
