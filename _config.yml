@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            v & r
 tagline:          'verify and repair'
-description:      'Verify and Repair Adventures in workflow by <a href="http://craigeley.com">Craig Eley</a>'
+description:      'Verify and Repair Adventures in workflow by <a href="http://craigeley.github.io">Craig Eley</a>'
 url:              http://verifyandrepair.com
 baseurl:          /
 
 author:
   name:           'Craig Eley'
-  url:            http://craigeley.com
+  url:            http://craigeley.github.io
 
 paginate:         5
 
