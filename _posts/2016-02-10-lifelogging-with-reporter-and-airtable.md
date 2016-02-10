@@ -2,16 +2,16 @@
 layout: post 
 title: Lifelogging with Reporter and Airtable
 author: Craig Eley 
-date: 2016-02-11
+date: 2016-02-10
 tags: 
 - lifelogging
 ---
 
 I never thought I was interested in a cloud-based software solution that, at its core, is a supercharged spreadsheet, but here we are. After being tipped off by a recent [MacStories article](https://www.macstories.net/roundups/new-apps-for-2016/), I've been tinkering with [Airtable](https://airtable.com) for the last few weeks as a journaling app. 
 
-I'm not sure that's what the designers had in mind, but since it's a relational database, it's actually a really good tool for the job. It's power is in "linked records," which allow individual cells in one entry to link (as the name would suggest) to their own record. The results are cross-referenced and really robust entries. See it in action:
+I'm not sure that's what the designers had in mind, but since it's a relational database, it's actually a really good tool for the job. It's power is in "linked records," which allow individual cells in one entry to link (as the name would suggest) to their own record. The results are cross-referenced and really robust entries. See it in action in this video:
 
-<iframe src="https://player.vimeo.com/video/134358966" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/134358966" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Linked records make Airtable great for something like a beer log. By setting both the brewery and the style as linked records, it's easy to see every IPA you've had recently, or how often you choose something from [Bell's](http://www.bellsbeer.com). And since you can have multiple "bases" (Airtable's shorthand for "database"), this journal can live alongside others in the same app.
 
@@ -35,7 +35,8 @@ Reporter also pulls down a ton of data in the background, without any user input
 
 Lastly, I created some Airtable-specific columns that exceed what Reporter can do. I added an "Attachments" column, which allows for a picture, and a long-text field called "Notes." All said and done, it looks like this:
 
-![](http://d.pr/i/14jA2+)
+[![](http://d.pr/i/14jA2+)](http://d.pr/i/14jA2)
+*click to enlarge*
 
 ### Script Setup
 
