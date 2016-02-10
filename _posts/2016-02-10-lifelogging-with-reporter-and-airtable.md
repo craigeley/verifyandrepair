@@ -11,7 +11,7 @@ I never thought I was interested in a cloud-based software solution that, at its
 
 I'm not sure that's what the designers had in mind, but since it's a relational database, it's actually a really good tool for the job. It's power is in "linked records," which allow individual cells in one entry to link (as the name would suggest) to their own record. The results are cross-referenced and really robust entries. See it in action in this video:
 
-<iframe src="https://player.vimeo.com/video/134358966" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/134358966" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Linked records make Airtable great for something like a beer log. By setting both the brewery and the style as linked records, it's easy to see every IPA you've had recently, or how often you choose something from [Bell's](http://www.bellsbeer.com). And since you can have multiple "bases" (Airtable's shorthand for "database"), this journal can live alongside others in the same app.
 
