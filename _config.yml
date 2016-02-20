@@ -8,7 +8,7 @@ permalink:        /:month-:day-:year/:title/
 # Setup
 title:            v & r
 tagline:          'verify and repair'
-description:      'Verify and Repair Adventures in workflow by <a href="http://craigeley.github.io">Craig Eley</a>'
+description:      'Verify and Repair<br>Adventures in workflow by <a href="http://craigeley.github.io">Craig Eley</a>'
 url:              http://verifyandrepair.com
 baseurl:          /
 
