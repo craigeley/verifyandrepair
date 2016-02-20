@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        /:month-:day-:year/:categories/:title/
+permalink:        /:month-:day-:year/:title/
 
 # Setup
 title:            v & r
