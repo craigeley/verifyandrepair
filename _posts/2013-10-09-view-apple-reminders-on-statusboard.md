@@ -5,7 +5,7 @@ date: '2013-10-09T10:40:47-04:00'
 tags: 
 - logging 
 redirect_from: /post/63557644899/view-apple-reminders-on-statusboard/
-image: /images/radio-brown.jpg
+redirect_to: http://verifyandrepair.com/
 ---
 
 I’ve been tinkering more with Panic’s Status Board as a secondary screen in my office set-up, and this week I wanted to see if I could get it to play well with Apple’s Reminders. There are already some pretty elegant ways to get to-do items onto Status Board, such as [this code](https://github.com/feju/things-status-board) which pulls from the Things app. But since I don’t use Things, and since that implementation uses multiple files and scripts (some of which exceed my current skill set), I thought I would use Status Board’s “Table” function, building on what I did with my [current writing progress table](/post/61417560267/monitor-current-writing-progress-with-status-board).

@@ -5,7 +5,7 @@ date: '2013-04-16T14:00:17-04:00'
 tags: 
 - logging 
 redirect_from: /post/48132171348/update-song-diary-and-day-one-logging-with-slogger/
-image: /images/radio-purple.jpg
+redirect_to: http://verifyandrepair.com/
 ---
 
 Well, that didn't take long.

@@ -6,7 +6,7 @@ tags:
 - workflow 
 - tumblr 
 redirect_from: /post/65431848090/quick-tip-read-tumblr-feed-in-an-rss-reader/
-image: /images/radio-brown.jpg
+redirect_to: http://verifyandrepair.com/
 ---
 
 If you have $10 to spare and like RSS reading, this little workflow has helped me more fully integrate Tumblr into my day. While it sacrifices ‘likes’ and ‘reblogs,’ I think it makes up for it in formatting and convenience. Now I read Tumblr posts alongside the other RSS feeds that I check on every day—ranging from [Mac Rumors](http://www.macrumors.com/) to [new job listings](http://academicjobs.wikia.com/wiki/American_Studies_2014).

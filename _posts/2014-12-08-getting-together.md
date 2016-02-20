@@ -4,6 +4,7 @@ title: Getting Together, or, Quick Thoughts on Database Software
 author: Craig Eley 
 date: 2014-12-08
 tags: [database, together, workflow]
+redirect_to: http://verifyandrepair.com/12-08-2014/getting-together
 ---
 
 I’m writing this post from inside [Together](http://reinventedsoftware.com/together/), a database application that I’ve been testing for the last two weeks or so as part of a concerted effort to find a new file manager and personal database utility. Back in grad school I got really deep into [DevonThink](http://www.devontechnologies.com/products/devonthink/overview.html), which remains unparalleled for full-text searching and finding connections between files. But soon after I discovered the wonderful world of Markdown, renounced hierarchical folder organization, and swore I would never look back.

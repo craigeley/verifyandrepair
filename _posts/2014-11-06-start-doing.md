@@ -3,10 +3,8 @@ layout: post
 title: Choose to Start Doing, aka, Tracking Your Work Time
 author: Craig Eley 
 date: 2014-11-06
-tags: 
-- logging
-- workflow
-image: /images/radio-teal.jpg
+tags: [logging, workflow]
+redirect_to: http://verifyandrepair.com/
 ---
 
 In the many hours I've spent trying to [log and capture various aspects of my life](http://craigeley.com/tagged/logging/), I've found that straight-up time tracking can be one of the hardest to get right. It's easy to see how many hours a week I am physically at my office—[for example](http://d.pr/i/1dAyN)—but it's much less easy to track how productive those hours have actually been. It's great to use an auto-tracking service like [Rescue Time](https://www.rescuetime.com/), but even that is good only up to a point: sometimes I'm legitimately using Twitter and Facebook for work, and other times I'm not.

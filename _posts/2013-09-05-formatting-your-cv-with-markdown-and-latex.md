@@ -7,7 +7,7 @@ tags:
 - formatting 
 - CV 
 redirect_from: /post/60358551339/formatting-your-cv-with-markdown-and-latex/
-image: /images/radio-purple.jpg
+redirect_to: http://verifyandrepair.com/
 ---
 
 Yesterday’s [open thread post](http://chronicle.com/blogs/profhacker/open-thread-wednesday-best-cv-formats/52021) on Profhacker was just the kick I needed to write this post on my CV workflow, which I developed last fall as I was dipping my toe into the job market. “Developed” is actually overstating it, since I just took the same approach I use for all of my academic writing: [Markdown](/post/45896860184/the-digital-dissertator-academic-writing-and).

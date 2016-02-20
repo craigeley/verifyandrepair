@@ -6,9 +6,8 @@ tags:
 - digidiss
 - markdown
 redirect_from: /post/45896860184/the-digital-dissertator-academic-writing-and/
-image: /images/radio-purple.jpg
+redirect_to: http://verifyandrepair.com/03-21-2013/the-digital-dissertator-academic-writing-in-markdown
 ---
-
 ![Writing](http://fieldnoise.com/diss/images/writing.jpeg)
 
 The virtues of writing in plaintext documents using Markdown syntax are many: you can work in virtually any writing program on any platform, you can sync your work to all of your devices, and you can easily convert it to any format you might need (including .doc and .docx, if you must). Before you get to all of those things, though, you have to start writing in it, which, as [this post](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295) observes, you probably already know how to do. On a day-to-day basis, most writers in the humanities probably don't need more complex text formatting than *italics* or **bold** anyway, which Markdown handles with asterisks: one on each side for italics, two on each side for bold. Read more about the basics [here](http://daringfireball.net/projects/markdown/syntax).

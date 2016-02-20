@@ -3,10 +3,8 @@ layout: post
 title: An Alfred Workflow for Together
 author: Craig Eley 
 date: 2014-12-10 09:00:00 -0600
-tags: 
-- workflow
-- together
-image: /images/radio-pink.jpg
+tags: [workflow, together]
+redirect_to: http://verifyandrepair.com/12-10-2014/together-alfred-workflow
 ---
 
 As you might have [read this week](/2014-12-08/getting-together/), I started using [Together](http://reinventedsoftware.com/together/) as a database and file manager. One of the main reasons is that the files and folders are stored in a human-readable way, and you can work with those files independent of the Together database being open. This means getting things in and out is pretty easy, especially with the provided [script library](http://reinventedsoftware.com/together/scripts/index.html).

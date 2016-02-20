@@ -6,7 +6,7 @@ tags:
 - sifttter 
 - logging
 redirect_from: /post/77908985251/sifttter-update-the-date-update/
-image: /images/radio-pink.jpg
+redirect_to: http://verifyandrepair.com/
 ---
 
 [Sifttter](https://gist.github.com/craigeley/8301817) has always been about "set it and forget it" use—running silently every single night with minimal fuss and zero user interaction. But *by far* the most common request I've gotten is to easily create entries for different dates. There are a ton of reasons you would want to do this, especially if your primary computer is a laptop that might be closed or off at the time the script is scheduled to run. I would kludge this by force-changing my computer's date, in part because I wasn't confident in my ability to code a more complex date range function.

@@ -3,11 +3,8 @@ layout: post
 title: Restore Foursquare Checkins with Launch Center and Pythonista [Updated]
 author: Craig Eley 
 date: 2014-08-25
-tags: 
-- automation
-- coding
-- logging
-image: /images/radio-brown.jpg
+tags: [automation, coding, logging]
+redirect_to: http://verifyandrepair.com/
 ---
 
 With the recent update to [Foursqure 8.0 for iOS](https://foursquare.com/), the ability to "check in" at locations has been officially offloaded to Foursquare's sister app, [Swarm](https://www.swarmapp.com/). This wouldn't be a huge deal if Swarm wasn't so greedy—it forces you to have GPS location on at all times, and subsequently drains your battery and/or bombards you with notifications. And while it's nice for people who rely on the social features of the app, it's really frustrating for people like me who used Foursquare mainly for [personal logging](http://craigeley.com/tagged/logging/) and other location-based things made possible with its [IFTTT channel](https://ifttt.com/foursquare).
