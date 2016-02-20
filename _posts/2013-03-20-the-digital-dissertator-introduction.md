@@ -7,7 +7,6 @@ tags:
 - markdown
 - academics
 redirect_from: /post/45890938768/the-digital-dissertator-introduction/
-redirect_to: http://verifyandrepair.com/03-20-2013/the-digital-dissertator-introduction
 ---
 
 ![Writing](http://fieldnoise.com/diss/images/nonsense1.jpeg)

@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   <br>
   <br>
-  <span class="post-date">See more posts tagged: {% for tag in page.tags %} <a href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+  <span class="post-date">See more posts tagged: {% for tag in page.tags %} <a href="/tagged/{{ tag }}">{{ tag }}</a> {% endfor %}</span>
   {% include comments.html %}
 </div>
 

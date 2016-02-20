@@ -5,7 +5,6 @@ date: '2013-07-19T12:44:00-04:00'
 tags: 
 - logging 
 redirect_from: /post/55880810270/log-apple-reminders-to-day-one/
-redirect_to: http://verifyandrepair.com/
 ---
 
 For the last six months I’ve been experimenting with ways to use [Day One](http://dayoneapp.com/) as daily logbook. One of the most powerful tools for doing this is Brett Terpstra’s [Slogger](https://github.com/ttscoff/Slogger) script, but that pulls exclusively from social networks (hence the name). I wrote a little script to pull from the Reminders app on my laptop and create a time-stamped entry containing all of the things I’ve crossed off for the day. Because iCloud keeps Reminders in sync across your devices, you can mark tasks complete on your iPhone and they will seamlessly sync back to the desktop client and get picked up.

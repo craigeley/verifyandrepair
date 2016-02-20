@@ -4,7 +4,6 @@ title: Theming Evernote
 author: Craig Eley 
 date: 2015-02-08
 tags: [evernote, workflow]
-redirect_to: http://verifyandrepair.com/02-08-2015/theming-evernote
 ---
 
 As I mentioned [last](/02-02-2015/writing-evernote-markdown) [week](/02-03-2015/evernote-markdown-update), I’ve been getting back into Evernote as an all-purpose database platform. However, there were still a few features that I missed from some of my favorite text editors: control over the color scheme, and a “distraction-free” full screen writing mode.

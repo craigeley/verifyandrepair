@@ -5,7 +5,6 @@ date: '2013-04-15T12:12:00-04:00'
 tags: 
 - logging 
 redirect_from: /post/48046602590/song-diary-log-itunes-tracks-to-day-one/
-redirect_to: http://verifyandrepair.com/
 ---
 
 This morning I wanted to quickly share some modifications I did to [Doug's Trackographer app](http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer) to make it work with Brett Terpstra's [TaskPaper logging script](http://brettterpstra.com/2012/02/25/automating-taskpaper-to-day-one-logs/). Here's the quick and dirty—not fully tested and certainly not guaranteed—with a more detailed post and some fixes coming later in the week or early next.

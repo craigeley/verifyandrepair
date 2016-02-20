@@ -39,7 +39,7 @@ jekyll-archives:
     - tags
   layout: 'archive'
   permalinks:
-    tag: '/tag/:name/'
+    tag: '/tagged/:name/'
 
 
 ### Prose.io Config

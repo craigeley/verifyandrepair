@@ -5,7 +5,6 @@ date: '2013-12-12T09:00:41-05:00'
 tags: 
 - workflow 
 redirect_from: /post/69785584024/h-net-ifttt/
-redirect_to: http://verifyandrepair.com/
 ---
 
 Those of you on the academic scene are almost certainly familiar with [H-Net](https://www.h-net.org/), the online portal for all things humanities and social sciences. Now, H-Net has rolled out version 2.0, [the H-Net Commons](https:/etworks.h-net.org/), which, among many other improvements, adds RSS feeds to any of the [current networks](https:/etworks.h-net.orgetworks). This means you no longer need to subscribe to an email listserv to find information (or tediously browse an online listserv archive), but instead can use your RSS readers of choice. (Mine happen to be [ReadKit](http:/eadkitapp.com/) on my laptop, and [Reeder](http:/eederapp.com/ios/) on my phone.)

@@ -6,7 +6,6 @@ tags:
 - dhsound 
 - digital humanities 
 redirect_from: /post/79168733914/two-weeks-ago-stephen-wolfram-posted-the/
-redirect_to: http://verifyandrepair.com/
 ---
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/_P9HqHVPeik" frameborder="0" allowfullscreen></iframe>

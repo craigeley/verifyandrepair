@@ -6,7 +6,6 @@ tags:
 - sifttter
 - logging
 redirect_from: /post/72565974459/sifttter-an-ifttt-to-day-one-logger/
-redirect_to: http://verifyandrepair.com/
 ---
 
 Let me just start by saying that this project is wholly derived from the work of [Brett Terpstra](http://brettterpstra.com/). Ever since I saw his script to [log Taskpaper entries to Day One](http://brettterpstra.com/2012/02/25/automating-taskpaper-to-day-one-logs/), I've been obsessed with finding ways to capture and automate my own information into a daily journal. These experiments were my first attempts at "coding," and you can see some of that work [here](http://craigeley.com/tagged/logging). When [Slogger 2](http://ttscoff.github.io/Slogger/) came out, I was over the moon, and for many months I had it running every night on my machine and churning out entries.

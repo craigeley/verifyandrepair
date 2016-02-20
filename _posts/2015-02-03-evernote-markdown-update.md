@@ -4,7 +4,6 @@ title: Markdownifying your Evernotes - Update
 author: Craig Eley 
 date: 2015-02-03
 tags: [markdown, evernote, dropbox, workflow]
-redirect_to: http://verifyandrepair.com/02-03-2015/evernote-markdown-update
 ---
 
 Typically, almost as soon as I published [yesterday’s post](http://craigeley.com/02-02-2015/writing-evernote-markdown/) about writing and backing up Evernote files to Markdown, I started tinkering with it to make it both more robust and easier to run on any individual system.
