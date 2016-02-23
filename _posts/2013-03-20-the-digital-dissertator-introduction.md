@@ -7,7 +7,6 @@ tags:
 - markdown
 - academics
 redirect_from: /post/45890938768/the-digital-dissertator-introduction/
-image: /images/radio-pink.jpg
 ---
 
 ![Writing](http://fieldnoise.com/diss/images/nonsense1.jpeg)

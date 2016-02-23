@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-I’m a tinkerer. As I’ve moved in and around academia, music, and radio production for the last few years—when things seemed super bleak, then super awesome, then bleak again, then repeat—I’ve always been able to find a significant amount of pleasure and solitude in tinkering with workflows, computer software and the code that underlies all of that.
-I don’t really do “DH,” nor do I really know how to code, exactly. If it needs a name, I think it’s about workflow.
+### The Content
+I’m a tinkerer. Over the last few years, as I've moved in and around academic life and into radio production—at times feeling frustrated, fulfilled, completely adrift, or some combination—I've always been able to find a significant amount of pleasure and solitude in tinkering with software and scripts. I'm interested in code and data, and, to some extent, "digital humanities." But if what I share on this site needs a name, let's say it's about workflow.
 
-### this site
-This is a [Jekyll site](http://jekyllrb.com) running the [Hyde theme](http://hyde.getpoole.com), with help from [Bigfoot](http://www.bigfootjs.com), [jekyll-archives](https://github.com/jekyll/jekyll-archives) and [glynn](https://github.com/dmathieu/glynn). The favicon is by [Erik Vullings for the Noun Project](https://thenounproject.com/term/radio-tower/24070/). This site is hosted by [Reclaim Hosting](https://reclaimhosting.com).
+### The Code
+This is a [Jekyll site](http://jekyllrb.com) running the [Hyde theme](http://hyde.getpoole.com), with help from [Bigfoot](http://www.bigfootjs.com), [jekyll-archives](https://github.com/jekyll/jekyll-archives) and [glynn](https://github.com/dmathieu/glynn). The favicon is [Ampersand by Loren Klein from the Noun Project](https://thenounproject.com/term/ampersand/162314). This site is hosted by [Reclaim Hosting](https://reclaimhosting.com).
 
-### me
-I'm a cultural historian and radio producer interested in sound, media technologies, and nature. Currently I'm an ACLS Public Fellow at To the Best of Our Knowledge, a weekly radio program produced at Wisconsin Public Radio. You can find me on Twitter as [@craigeley](https://twitter.com/craigeley).
+### The Person
+I'm a cultural historian and radio producer interested in sound, media technologies, nature, and data. Currently I'm an ACLS Public Fellow at To the Best of Our Knowledge, a weekly radio program produced at Wisconsin Public Radio. You learn more at [my homepage](http://craigeley.com) and find me on Twitter as [@craigeley](https://twitter.com/craigeley).

@@ -5,7 +5,6 @@ date: '2014-01-29T09:00:22-05:00'
 tags: 
 - markdown 
 redirect_from: /post/74939959284/cleaning-up-markdown-footnotes/
-image: /images/radio-pink.jpg
 ---
 
 Just a quick update to an [old post](/post/46089397285/the-digital-dissertator-markdown-footnote-update) on Markdown footnotes.

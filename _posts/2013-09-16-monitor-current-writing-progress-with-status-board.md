@@ -5,7 +5,6 @@ date: '2013-09-16T13:18:00-04:00'
 tags: 
 - logging 
 redirect_from: /post/61417560267/monitor-current-writing-progress-with-status-board/
-image: /images/radio-teal.jpg
 ---
 
 It’s been a really long time since I posted anything about my strategies for [logging and personal archiving](/tagged/logging), but this morning I whipped up a little script for Panic’s [Status Board](http://panic.com/statusboard/) application that I think is pretty cool. I do mean “cool,” in this case, as opposed to “useful”—this idea started as a script that logs to Day One, but took a detour along the way. I’ll post about that other one later in the week. This is just eye candy, for those of you with a spare iPad and/or HDTV lying around while you work.

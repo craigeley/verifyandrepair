@@ -7,7 +7,6 @@ tags:
 - productivity 
 - logging 
 redirect_from: /post/84124624548/how-to-sort-of-sync-taskpaper-files-with-busycal/
-image: /images/radio-teal.jpg
 ---
 
 Recently I switched my task management workflow from Apple's Reminders into a Taskpaper system that uses a [unique instance of nvALT](http://craigeley.com/post/80876964138unning-multiple-instances-of-nvalt) when I'm at my computer, and [Listacular](https://itunes.apple.com/us/app/listacular-for-dropbox-rapid/id624606571?mt=8) when I'm on the go. While I like this arrangement, I had really gotten used to being able to view tasks in a calendar layout so I could easily see what was coming up next. It's not hard to make a master list of upcoming tasks from your Taskpaper files, but then you end up with just that: another list.

@@ -4,10 +4,9 @@ title: Theming Evernote
 author: Craig Eley 
 date: 2015-02-08
 tags: [evernote, workflow]
-image: /images/radio-teal.jpg
 ---
 
-As I mentioned [last](http://craigeley.com/02-02-2015/writing-evernote-markdown) [week](http://craigeley.com/02-03-2015/evernote-markdown-update), I’ve been getting back into Evernote as an all-purpose database platform. However, there were still a few features that I missed from some of my favorite text editors: control over the color scheme, and a “distraction-free” full screen writing mode.
+As I mentioned [last](/02-02-2015/writing-evernote-markdown) [week](/02-03-2015/evernote-markdown-update), I’ve been getting back into Evernote as an all-purpose database platform. However, there were still a few features that I missed from some of my favorite text editors: control over the color scheme, and a “distraction-free” full screen writing mode.
 
 However, since Evernote is basically an HTML editor, I suspected there might be a way to style it. And sure enough, after poking around a bit, I found a CSS file which controls how the notes look. (And just the notes—I couldn’t find a way to style the sidebars.)
 
@@ -15,7 +14,7 @@ In less than hour (it would have *much* less if I knew more about CSS), I was ab
 
 [![Easy, breezy contrast](http://d.pr/i/12Gg8+)](http://d.pr/i/12Gg8)
 
-If you know what you’re doing, then you can find the file in `Applications/Evernote.app/Contents/Resources/mac/en-mac-min.css.` Also, since this is as a hack, be sure to save a backup of this file—it will be overwritten every time the software is updated or needs to be reinstalled.
+If you know what you’re doing, then you can find the file in `/Applications/Evernote.app/Contents/Resources/mac/en-mac-min.css.` Also, since this is as a hack, be sure to save a backup of this file—it will be overwritten every time the software is updated or needs to be reinstalled.
 
 If you need more help, here’s a step-by-step walkthrough:
 

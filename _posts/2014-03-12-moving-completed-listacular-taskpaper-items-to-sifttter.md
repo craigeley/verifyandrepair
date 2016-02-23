@@ -8,7 +8,6 @@ tags:
 - taskpaper 
 - sifttter 
 redirect_from: /post/79362016345/moving-completed-listacular-taskpaper-items-to-sifttter/
-image: /images/radio-brown.jpg
 ---
 
 Once you have [converted your Apple Reminders to TaskPaper files](http://craigeley.com/post/79279572795/convert-apple-reminders-to-taskpaper-style-text-files) the real fun can begin: running scripts on those files to keep them neat and clean and moving them into your [Sifttter](http://craigeley.com/post/72565974459/sifttter-an-ifttt-to-day-one-logger) workflow. This is actually a little tricky for the time being, since neither [Listacular](https://itunes.apple.com/us/app/listacular-for-dropbox-rapid/id624606571?mt=8) nor [TaskPaper](http://www.hogbaysoftware.com/products/taskpaper)—yet!—add time data when tasks are completed. Listacular simply adds an “@done” tag to the end of the line, while some versions of TaskPaper or other apps will add “@done(yyyy-mm-dd). Either case is insufficient for Sifttter, which works best with timestamps as well.

@@ -6,7 +6,6 @@ tags:
 - nvalt 
 - workflow 
 redirect_from: /post/80876964138unning-multiple-instances-of-nvalt/
-image: /images/radio-pink.jpg
 ---
 
 Over the last two years I’ve experimented with what seems like every plain text/Markdown editor on the planet. But my first love, and the one that I keep coming back to for long-form writing, is [nvALT](http://brettterpstra.com/projects/nvalt/) (though a really close second is [Ulysses](http://www.ulyssesapp.com/)). The best thing about nvALT is that it can read from an entire folder, allowing you to tag files as well as search their full contents. This has essentially eliminated any folder hierarchies from my writing workflow, since I can just find anything with a search. I would say 99% of my work, from these blog posts to academic presentations to teaching notes, resides in a single folder.

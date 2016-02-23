@@ -6,7 +6,6 @@ tags:
 - sifttter 
 - logging
 redirect_from: /post/76227567094/sifttter-update-manual-transmissions/
-image: /images/radio-brown.jpg
 ---
 
 Over the last few weeks I've gotten a lot of positive feedback and suggestions for [Sifttter](http://craigeley.com/post/72565974459/sifttter-an-ifttt-to-day-one-logger), my DiY-via-[@ttscoff](https://twitter.com/ttscoff) automated system to create Day One entries. And it has also taken on a life of it's own: there are now lots of new recipes that people have built to supplement my original handful, and you can find them all in one place by [searching IFTTT for Sifttter](https://ifttt.comecipes/search?q=sifttter&ac=false). You can now bring Facebook, Github, Jawbone, Pocket, Instagram, and a few others into your daily logs.

@@ -6,10 +6,9 @@ tags:
 - digidiss 
 - markdown
 redirect_from: /post/46089397285/the-digital-dissertator-markdown-footnote-update/
-image: /images/radio-teal.jpg
 ---
 
-The one thing that I neglected to mention in my [recent post](http://craigeley.com/post/45896860184/the-digital-dissertator-academic-writing-and) about using a [TextExpander](http://www.smilesoftware.com/TextExpander/index.html) timestamp to make Markdown-style footnotes is that the snippet gets pretty ugly when you go back in and add footnotes at the revision stage—which we're all doing, right? As my original snippet was written, it would do a carriage return and then put your footnote smack in the middle of the page.
+The one thing that I neglected to mention in my [recent post](/post/45896860184/the-digital-dissertator-academic-writing-and) about using a [TextExpander](http://www.smilesoftware.com/TextExpander/index.html) timestamp to make Markdown-style footnotes is that the snippet gets pretty ugly when you go back in and add footnotes at the revision stage—which we're all doing, right? As my original snippet was written, it would do a carriage return and then put your footnote smack in the middle of the page.
 
 ![Gross.](http://d.pr/fPVU+)
 
