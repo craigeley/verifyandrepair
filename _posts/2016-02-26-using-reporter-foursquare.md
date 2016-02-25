@@ -2,7 +2,7 @@
 layout: post 
 title: Using Reporter as a Foursquare Client
 author: Craig Eley 
-date: 2016-02-24 09:05
+date: 2016-02-26 09:05
 tags: [lifelogging, Foursquare, reporter]
 ---
 After spending [some time with Reporter's JSON output](/lifelogging-with-reporter-and-airtable/), I've been thinking about ways to leverage it as a input method for other tools and services. Perhaps the most obvious is Foursquare, since Reporter already pulls from the Foursquare API for its location data.
