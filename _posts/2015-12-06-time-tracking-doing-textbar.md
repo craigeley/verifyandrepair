@@ -23,7 +23,7 @@ So I created a script that reads from the doing file. If you’re not working on
 
 Here’s the bash script that makes it all happen:
 
-<div class="gist">https://gist.github.com/craigeley/57d48dca08477d80ba94</div>
+<script src="https://gist.github.com/craigeley/57d48dca08477d80ba94.js"></script>
 
 You’ll need to a) change the path to your doing file on line 5, b) make the file executable, c) store it somewhere, and then d) point TextBar to it. I have it set to update every sixty seconds, since it only tracks down to the minute.
 
