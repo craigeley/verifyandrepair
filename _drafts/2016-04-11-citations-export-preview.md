@@ -5,6 +5,8 @@ author: Craig Eley
 date: 
 tags: [writing, workflow]
 ---
+*This is the second part in a serious about my writing workflows. See part 1 here.*
+
 Once I got my writing environment dialed in, 
 
 In citations, as in everything else, I tend to think that the best software is open software. I use [Zotero](https://www.zotero.org/) as my citation manager and database. Sure, at this point it's kind of ugly, but it can be really powerful, especially when paired with plugins like [Zotfile](http://zotfile.com/), which makes it easy to store PDFs in Dropbox, and [Better BibTeX](https://github.com/retorquere/zotero-better-bibtex) (BBT), which makes citation a breeze.
@@ -26,5 +28,5 @@ This sentence needs a footnote.[^1] So does this one.[^web]
 [^web] See http://craigeley.com 
 ```
 
-
+Next: file management and version control.
 
