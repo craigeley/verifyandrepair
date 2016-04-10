@@ -4,6 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:month-:day-:year/:title/
+future:           false
 
 # Setup
 title:            v & r
