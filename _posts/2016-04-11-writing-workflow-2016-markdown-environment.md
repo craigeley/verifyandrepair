@@ -14,7 +14,7 @@ Here is a general outline of where we're going:
 - Part 1 (this post)
     + Why Markdown?
     + Creating a Markdown writing environment in Sublime Text
-- Part 2 (coming Wednesday)
+- [Part 2](/04-13-2016/citations-export-preview/)
     + Managing citations with Zotero
     + Previewing documents in Marked 2
     + Exporting documents via Pandoc
