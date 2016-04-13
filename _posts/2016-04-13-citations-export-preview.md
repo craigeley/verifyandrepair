@@ -6,7 +6,7 @@ date: 2016-04-13 08:00
 tags: [writing, workflow]
 ---
 
-As I mentioned in [part one](http://verifyandrepair.com/04-11-2016/writing-workflow-2016-markdown-environment/) of this series, one of the joys of Markdown is that it is a computer language, a kind of code. And as code, it can be interpreted, manipulated, and modified by a variety of programs and tools that make some of the more tedious parts of formatting automatic: clean and correct HTML tags, generating citations and bibliographies, converting to Microsoft Word, etc.
+As I mentioned in [part one](/04-11-2016/writing-workflow-2016-markdown-environment/) of this series, one of the joys of Markdown is that it is a computer language, a kind of code. And as code, it can be interpreted, manipulated, and modified by a variety of programs and tools that make some of the more tedious parts of formatting automatic: clean and correct HTML tags, generating citations and bibliographies, converting to Microsoft Word, etc.
 
 This post is about taking simple, easy to read Markdown and transforming it into something else. Because it focuses so heavily on footnotes and citations, I imagine it will be mostly of interest to other academics, but if you've done any sort of writing for the web, you might also find it useful.
 
@@ -20,9 +20,9 @@ Making sense of footnotes and citations in Markdown can be tricky, especially si
 
         This sentence needs a footnote.[^1] So does this one.[^website]
 
-        [^1] Here it is.
+        [^1]: Here it is.
 
-        [^website] See [http://verifyandrepair.com](http://verifyandrepair.com)
+        [^website]: See [http://verifyandrepair.com](http://verifyandrepair.com)
 
 If you are doing basic writing for the web, or writing something that might only have one or two notes, then either of these methods are fine. I [used to be a nut for reference footnotes](http://verifyandrepair.com/03-23-2013/the-digital-dissertator-markdown-footnote-update/), but now I've come to enjoy inline. Switching between the two — even in the same document — isn't a problem, since most Markdown parsers now recognize both.
 
@@ -34,13 +34,17 @@ Speaking of parsers, if there is one must-have tool in your Markdown toolkit, it
 ### Advanced Citation Using Zotero and Pandoc
 If you're working on a long document, planning on citing many sources, or using a bibliography, I cannot recommend a citation manager strongly enough. I feel like I've tried them all, and I keep coming back to [Zotero](https://www.zotero.org/). Sure it's aesthetic is a bit dated, but it's open source, free, and has extensions that make it a powerhouse little database.
 
-One of those extensions is [Better BibTex](https://github.com/retorquere/zotero-better-bibtex/wiki), which, when paired with the open source tool [pandoc](http://pandoc.org/), allows you to fully automate formatting your citations and bibliographies. All you have to do is insert a citation key into a pandoc-style footnote — yes, this is a third footnoting style — which places the carot on the outside, like so: `^[@aitken76]`. When you go to process that file, your footnote will be transformed into a full-fledged citation:[^164122109]
+One of those extensions is [Better BibTex](https://github.com/retorquere/zotero-better-bibtex/wiki), which, when paired with the open source tool [pandoc](http://pandoc.org/), allows you to fully automate formatting your citations and bibliographies. All you have to do is insert a citation key into a pandoc-style footnote — yes, this is a third footnoting style — which places the carot on the outside, like so: `^[@aitken76]`. When you go to process that file, your blockquote…
 
-> Aitken, Hugh G. J. *Syntony and Spark: The Origins of Radio*. New York: Wiley, 1976.
+![](http://d.pr/i/17AeY+)
 
-For anyone who hates formatting footnotes and bibliographies, this really feels like magic.
+…will magically have a nice footnote and bibliography entry.
 
-Setting this up requires a bit of legwork up front, but the payoff is worth it. First, install Zotero, pandoc, and Better BibTeX (BBT) if you haven't already. BBT will automatically create a "Citation Key" for every item in your Zotero library—you can even set the format for this key in the preferences. While you're in the preferences, make sure to also set BBT to do an automatic export:
+![](http://d.pr/i/1lI93+)
+
+For anyone who hates formatting footnotes and bibliographies, this really feels like magic. And while setting this up requires a bit of legwork up front, but the payoff is worth it. 
+
+First, install Zotero, pandoc, and Better BibTeX (BBT) if you haven't already. BBT will automatically create a "Citation Key" for every item in your Zotero library—you can even set the format for this key in the preferences. While you're in the preferences, make sure to also set BBT to do an automatic export:
 
 [![](http://d.pr/i/130I2+)](http://d.pr/i/130I2)
 *This creates a master bibliography file and keeps it updated.*
