@@ -1,3 +1,5 @@
 _site
 _glynn.yml
 audio
+*.acorn
+images/*.acorn
