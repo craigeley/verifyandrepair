@@ -10,7 +10,7 @@ As I mentioned in [part one](/04-11-2016/writing-workflow-2016-markdown-environm
 
 This post is about taking simple, easy to read Markdown and transforming it into something else. Because it focuses so heavily on footnotes and citations, I imagine it will be mostly of interest to other academics, but if you've done any sort of writing for the web, you might also find it useful.
 
-Fair warning: each of these steps and programs I'm going to discuss has a much finer level of detail than I go into here. My goal is not to be exhaustive, but to explain the basic framework I use — both so I finally have some personal documention, and in case it saves someone out there from even a fraction of the Google searches I've done.
+Fair warning: each of these steps and programs I'm going to discuss has a much finer level of detail than I go into here. My goal is not to be exhaustive, but to explain the basic framework I use — both to finally have some personal documention, and to hopefully save one or two people from even a fraction of the Google searches I've done.
 
 ### Basic Footnotes and Previewing
 Making sense of footnotes and citations in Markdown can be tricky, especially since there are at least two styles of footnotes in widespread use:
@@ -26,13 +26,13 @@ Making sense of footnotes and citations in Markdown can be tricky, especially si
 
 If you are doing basic writing for the web, or writing something that might only have one or two notes, then either of these methods are fine. I [used to be a nut for reference footnotes](http://verifyandrepair.com/03-23-2013/the-digital-dissertator-markdown-footnote-update/), but now I've come to enjoy inline. Switching between the two — even in the same document — isn't a problem, since most Markdown parsers now recognize both.
 
-Speaking of parsers, if there is one must-have tool in your Markdown toolkit, it's [Marked 2](http://marked2app.com/). Marked is ostensibly a preview window for Markdown files, but it's also much more. It easily converts Markdown to HTML, but it also checks your spelling and grammar, verifies your links are working, export to a variety of formats, and, as we'll see below, preview your footnotes. It's one of the handful of programs that I have open all day.
+Speaking of parsers, if there is one must-have tool in your Markdown toolkit, it's [Marked 2](http://marked2app.com/). Marked is ostensibly a preview window for Markdown files, but it's also much more. It easily converts Markdown to HTML, but it also checks your spelling and grammar, verifies your links are working, exports to a variety of formats, and, as we'll see below, previews your footnotes. It's one of the handful of programs that I have open all day.
 
 [![](http://d.pr/i/19ocg+)](http://d.pr/i/19ocg)
 *Sublime Text on the left, Marked 2 on the right. Click to enlarge.*
 
 ### Advanced Citation Using Zotero and Pandoc
-If you're working on a long document, planning on citing many sources, or using a bibliography, I cannot recommend a citation manager strongly enough. I feel like I've tried them all, and I keep coming back to [Zotero](https://www.zotero.org/). Sure it's aesthetic is a bit dated, but it's open source, free, and has extensions that make it a powerhouse little database.
+If you're working on a long document, planning on citing many sources, or using a bibliography, I cannot recommend a citation manager strongly enough. I feel like I've tried them all, and I keep coming back to [Zotero](https://www.zotero.org/). Sure its aesthetic is a bit dated, but it's open source, free, and has extensions that make it a powerhouse little database.
 
 One of those extensions is [Better BibTex](https://github.com/retorquere/zotero-better-bibtex/wiki), which, when paired with the open source tool [pandoc](http://pandoc.org/), allows you to fully automate formatting your citations and bibliographies. All you have to do is insert a citation key into a pandoc-style footnote — yes, this is a third footnoting style — which places the carot on the outside, like so: `^[@aitken76]`. When you go to process that file, your blockquote…
 
@@ -42,7 +42,7 @@ One of those extensions is [Better BibTex](https://github.com/retorquere/zotero-
 
 ![](http://d.pr/i/1lI93+)
 
-For anyone who hates formatting footnotes and bibliographies, this really feels like magic. And while setting this up requires a bit of legwork up front, but the payoff is worth it. 
+For anyone who hates formatting footnotes and bibliographies, this really feels like magic. And while setting this up requires a bit of legwork up front, the payoff is worth it. 
 
 First, install Zotero, pandoc, and Better BibTeX (BBT) if you haven't already. BBT will automatically create a "Citation Key" for every item in your Zotero library—you can even set the format for this key in the preferences. While you're in the preferences, make sure to also set BBT to do an automatic export:
 
@@ -59,7 +59,7 @@ The nice thing about command line utilities is that they follow a formula. In th
 For our situation, though, we're going to need to add three variables to that basic formula: one that tells pandoc to look for citations, one that points it to the bibliography file, and  one that points it to a citation style.
 
 - To have pandoc look for citations, you include a filter: `--filter pandoc-citeproc`
-- To add the bibliograpy: `--bibliography=/path/to/bibliography` (replacing that with your actual path, of course!)
+- To add the bibliograpy: `--bibliography=/path/to/bibliography` (replacing that with the actual path to your file, of course!)
 - Citation styles languages (CSLs) are the files that set style parameters, and they're based on common guides: Chicago, APA, etc. There's a CSL for pretty much every style out there, and you can find them in [this repo](https://github.com/citation-style-language/styles). Download one, save it somewhere, and point to it just like the bibliography: `--csl=/path/to/style-file.csl`
 
 Putting this all together, you get this:
