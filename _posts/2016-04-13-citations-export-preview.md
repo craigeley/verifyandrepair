@@ -78,7 +78,7 @@ To do that, go to the "Advanced" tab of Marked's settings. There, enable the cus
 
 At times, pandoc can feel both extremely simple and hopelessly complex, and there are many variations of settings (include export templates) that I just didn't cover here. Please feel free to comment if you have questions, are stuck, or want to share how you do this in a more elegant manner.
 
-On Friday, in the final installment in this series, I'll talk (hopefully more briefly!) about using `git` for file management and version control.
+Up next, in the final installment in this series, I'll talk (hopefully more briefly!) about using `git` for file management and version control.
 
 [^164122109]: Or not. I often use a Chicago style variant that allows for a shorter footnote as long as it references a full entry in the bibliography, but your footnote could actually include the full entry. That's a style choice that's up to you, as I'll explain below.
 

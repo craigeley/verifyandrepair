@@ -18,7 +18,7 @@ Here is a general outline of where we're going:
     + Managing citations with Zotero
     + Previewing documents in Marked 2
     + Exporting documents via Pandoc
-- Part 3 (coming Friday)
+- Part 3 (coming soon)
     + File management and version control with Git
 
 ### Why Markdown?
