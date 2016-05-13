@@ -28,7 +28,7 @@ My git writing workflow uses two branches: "master" and "drafting." As you might
 
 - At the start of a session, I switch to the drafting branch if I'm not in there already: `git checkout drafting`. If you need to create that branch, it's `git checkout -b drafting`.
 - Now the hard part: [write](http://36hrw115apll2tgpf9vbfhw1.wpengine.netdna-cdn.com/wp-content/uploads/2013/01/DSC_0112-780x521.jpg).
-- When I'm done writing, I like to compare the changes I've made against the original and decide what to keep. I have a tendency to overwork a section, complicating it and/or making things worse. With the command `git diff drafting..master`, I can see everything I changed in a writing session and compare it to the "master" version. If I use the same command with `difftool`, it will open those changes in your editor. There are some custom (and expensive) expensive difftools like [Kaleidoscope](http://www.kaleidoscopeapp.com/), but ol' reliable [TextWrangler](http://www.barebones.com/products/textwrangler/) works just fine.
+- When I'm done writing, I like to compare the changes I've made against the original and decide what to keep. I have a tendency to overwork a section, complicating it and/or making things worse. With the command `git diff drafting..master`, I can see everything I changed in a writing session and compare it to the "master" version. If I use the same command with `difftool`, it will open those changes in your editor. There are some expensive difftools like [Kaleidoscope](http://www.kaleidoscopeapp.com/), but ol' reliable [TextWrangler](http://www.barebones.com/products/textwrangler/) also works just fine.
 
 [![](http://d.pr/i/1cAzr+)](http://d.pr/i/1cAzr+)
 *I'm diffing this blog post right now!*
