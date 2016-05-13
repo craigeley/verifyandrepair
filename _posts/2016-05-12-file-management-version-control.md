@@ -14,7 +14,7 @@ If you already know git, you can [skip down to my implementation](#workflow). If
 Git works best when you keep your writing projects divided into project folders. Back when I discovered the ["alternate" version of Notational Velocity](http://brettterpstra.com/projects/nvalt/), I went nuts and decided all of my documents should exist in a single folder. But once I discovered git (and stopped worrying that iOS meant [the death of the filesystem](http://www.fastcompany.com/3007889/how-one-new-service-tackling-death-file-system)), I reverted back to using folders – and embraced their [skeuomorphism](http://tumblr.austinkleon.com/post/58625662398). Anyway, once you have that project folder, you're ready to start using git.
 
 ### Overview
-Git can be as complex and you want to make it, and computer programmers have their own complicated thoughts on the best ways to work with it. But since we're using git for writing, we can break stick to the basics. Here are some key terms:
+Git can be as complex and you want to make it, and computer programmers have their own complicated thoughts on the best ways to work with it. But since we're using git for writing, we can stick to the basics. Here are some key terms:
 
 - **Repo**: git projects (in our case, project folders) are called repositories, or "repos" for short
 - **Branches**: each repo can contain multiple "branches," separate threads of the project that allow you to work on something without worrying that you will ruin what you already have. While this applies mainly to coding, it can also be an important tool for writing.
